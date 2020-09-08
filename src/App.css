@@ -13,6 +13,11 @@
   }
 }
 
+@keyframes tap {
+  0% { background: #000 !important }
+  100% { background: #fff !important }
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
